@@ -1,1 +1,18 @@
-hello
+RuntimeX 5.0.1 - Beta
+
+New
+• RtxInject injection framework — a second, ptrace/KittyMemory-based injector
+  alongside the Frida-based LibRtX. Pick it in Settings → Injection framework.
+  Broader emulator coverage, with automatic memfd fallback and retries for
+  tricky boxes like vPhoneGaGa.
+• In-app updater — check for updates, view the changelog, download to your
+  Downloads folder, and install with one tap.
+
+Improved
+• Simpler logs — clean HH:mm:ss format, errors marked with "!".
+• Logs auto-clear on every launch and for each game you inject, so you only
+  ever see the current session.
+
+Fixes & housekeeping
+• Injection stability improvements across emulators.
+• Cleaned up the project and added a proper changelog.
