@@ -1,6 +1,6 @@
 {
-  "versionName": "1.0.0",
-  "versionCode": 1,
+  "versionName": "8.0.1",
+  "versionCode": 801,
   "changelog": "Initial online ModMenu package.",
   "files": {
     "armeabi-v7a": "https://pub-e9e3efa9b9dc473a956547a67f8ee00c.r2.dev/Mod%20Menu/armeabi-v7a.so",
