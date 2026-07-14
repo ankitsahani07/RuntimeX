@@ -1,3 +1,26 @@
+
+RuntimeX 5.1.1
+
+Improved
+* LibRtX is now the only injection framework.
+* Better ARM-on-x86/x86_64 emulator loading through Android Runtime native load
+  before lower-level native-bridge fallbacks.
+* Better Android virtual-environment handling for VMOS, VPhoneGaGa, and
+  Virtual Master by keeping ABI selection on native ARM paths.
+* Target-app staging is required, reducing misleading dlopen path errors.
+* Simpler logs with clean HH:mm:ss format and errors marked with "!".
+
+New
+* In-app updater with changelog, APK download, and install flow.
+* Online ModMenu delivery using modmenu.json direct links for all four ABIs.
+* Startup and Settings now check RuntimeX and ModMenu updates together.
+* Activate now offers Runtime-only or Runtime + ModMenu download.
+
+Cleanup
+* Removed old secondary-backend build paths, memfd settings, and raw ZIP bundling.
+* Removed embedded ModMenu binaries from the APK.
+
+
 RuntimeX 5.0.1 - Beta
 
 New
