@@ -3,9 +3,9 @@
   "versionCode": 801,
   "changelog": "Initial online ModMenu package.",
   "files": {
-    "armeabi-v7a": "https://pub-e9e3efa9b9dc473a956547a67f8ee00c.r2.dev/Mod%20Menu/armeabi-v7a.so",
-    "arm64-v8a": "https://pub-e9e3efa9b9dc473a956547a67f8ee00c.r2.dev/Mod%20Menu/arm64-v8a.so",
-    "x86": "https://pub-e9e3efa9b9dc473a956547a67f8ee00c.r2.dev/Mod%20Menu/x86.so",
-    "x86_64": "https://pub-e9e3efa9b9dc473a956547a67f8ee00c.r2.dev/Mod%20Menu/x86_64.so"
+    "armeabi-v7a": "https://raw.githubusercontent.com/ankitsahani07/RuntimeX/main/ModMenu/armeabi-v7a.so",
+    "arm64-v8a": "https://raw.githubusercontent.com/ankitsahani07/RuntimeX/main/ModMenu/arm64-v8a.so",
+    "x86": "https://raw.githubusercontent.com/ankitsahani07/RuntimeX/main/ModMenu/x86.so",
+    "x86_64": "https://raw.githubusercontent.com/ankitsahani07/RuntimeX/main/ModMenu/x86_64.so"
   }
 }
