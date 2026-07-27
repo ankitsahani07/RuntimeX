@@ -1,3 +1,15 @@
+RuntimeX 5.1.2
+
+Fixed
+* Selects the carrier and bootstrap agent from the live target process ELF ABI.
+* Prevents ARM64 librtx.so from running through an x86_64 translation layer.
+* Stops safely when no matching packaged carrier is available.
+
+Changed
+* Android Studio and Gradle builds now use checked-in RuntimeX native prebuilts.
+* Removed automatic ndk-build compilation from normal APK builds.
+* Keeps carrier and bootstrap-agent prebuilts for all four supported ABIs.
+
 
 RuntimeX 5.1.1
 
