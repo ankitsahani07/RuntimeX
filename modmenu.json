@@ -1,6 +1,6 @@
 {
-  "versionName": "8.0.1",
-  "versionCode": 801,
+  "versionName": "8.1.1",
+  "versionCode": 811,
   "changelog": "Initial online ModMenu package.",
   "files": {
     "armeabi-v7a": "https://raw.githubusercontent.com/ankitsahani07/RuntimeX/main/ModMenu/September/armeabi-v7a.so",
